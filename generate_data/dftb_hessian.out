@@ -1,0 +1,460 @@
+|===============================================================================
+|
+|  DFTB+ release 20.2
+|
+|  Copyright (C) 2006 - 2020  DFTB+ developers group
+|
+|===============================================================================
+|
+|  When publishing results obtained with DFTB+, please cite the following
+|  reference:
+|
+|  * DFTB+, a software package for efficient approximate density functional
+|    theory based atomistic simulations, J. Chem. Phys. 152, 124101 (2020).
+|    [doi: 10.1063/1.5143190]
+|
+|  You should also cite additional publications crediting the parametrization
+|  data you use. Please consult the documentation of the SK-files for the
+|  references.
+|
+|===============================================================================
+
+Reading input file 'dftb_in.hsd'
+Parser version: 9
+
+--------------------------------------------------------------------------------
+Reading SK-files:
+Done.
+
+
+Processed input in HSD format written to 'dftb_pin.hsd'
+
+Starting initialization...
+--------------------------------------------------------------------------------
+OpenMP threads:              12
+Chosen random seed:          8772268
+Mode:                        2nd derivatives calculation
+Mode:                        Calculated for atoms:
+           1           2           3           4           5           6
+Self consistent charges:     No
+Spin polarisation:           No
+Nr. of up electrons:             7.000000
+Nr. of down electrons:           7.000000
+Periodic boundaries:         No
+Electronic solver:           Relatively robust
+Electronic temperature:        0.100000E-07 H      0.272114E-06 eV
+Included shells:             C:  s, p
+                             O:  s, p
+                             H:  s
+Extra options:
+                             Mulliken analysis
+Force type                   original
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 0
+
+
+Total Energy:                       -6.5542836454 H         -178.3511 eV
+Extrapolated to 0K:                 -6.5542836454 H         -178.3511 eV
+Total Mermin free energy:           -6.5542836454 H         -178.3511 eV
+Force related energy:               -6.5542836454 H         -178.3511 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 1
+
+
+Total Energy:                       -6.5542875808 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542875808 H         -178.3512 eV
+Total Mermin free energy:           -6.5542875808 H         -178.3512 eV
+Force related energy:               -6.5542875808 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 2
+
+
+Total Energy:                       -6.5542858067 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542858067 H         -178.3512 eV
+Total Mermin free energy:           -6.5542858067 H         -178.3512 eV
+Force related energy:               -6.5542858067 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 3
+
+
+Total Energy:                       -6.5542854183 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542854183 H         -178.3512 eV
+Total Mermin free energy:           -6.5542854183 H         -178.3512 eV
+Force related energy:               -6.5542854183 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 4
+
+
+Total Energy:                       -6.5542859475 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542859475 H         -178.3512 eV
+Total Mermin free energy:           -6.5542859475 H         -178.3512 eV
+Force related energy:               -6.5542859475 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 5
+
+
+Total Energy:                       -6.5542852773 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542852773 H         -178.3512 eV
+Total Mermin free energy:           -6.5542852773 H         -178.3512 eV
+Force related energy:               -6.5542852773 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 6
+
+
+Total Energy:                       -6.5542875012 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542875012 H         -178.3512 eV
+Total Mermin free energy:           -6.5542875012 H         -178.3512 eV
+Force related energy:               -6.5542875012 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 7
+
+
+Total Energy:                       -6.5542837254 H         -178.3511 eV
+Extrapolated to 0K:                 -6.5542837254 H         -178.3511 eV
+Total Mermin free energy:           -6.5542837254 H         -178.3511 eV
+Force related energy:               -6.5542837254 H         -178.3511 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 8
+
+
+Total Energy:                       -6.5542858967 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542858967 H         -178.3512 eV
+Total Mermin free energy:           -6.5542858967 H         -178.3512 eV
+Force related energy:               -6.5542858967 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 9
+
+
+Total Energy:                       -6.5542853324 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542853324 H         -178.3512 eV
+Total Mermin free energy:           -6.5542853324 H         -178.3512 eV
+Force related energy:               -6.5542853324 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 10
+
+
+Total Energy:                       -6.5542861022 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542861022 H         -178.3512 eV
+Total Mermin free energy:           -6.5542861022 H         -178.3512 eV
+Force related energy:               -6.5542861022 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 11
+
+
+Total Energy:                       -6.5542851245 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542851245 H         -178.3512 eV
+Total Mermin free energy:           -6.5542851245 H         -178.3512 eV
+Force related energy:               -6.5542851245 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 12
+
+
+Total Energy:                       -6.5542853076 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542853076 H         -178.3512 eV
+Total Mermin free energy:           -6.5542853076 H         -178.3512 eV
+Force related energy:               -6.5542853076 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 13
+
+
+Total Energy:                       -6.5542859223 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542859223 H         -178.3512 eV
+Total Mermin free energy:           -6.5542859223 H         -178.3512 eV
+Force related energy:               -6.5542859223 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 14
+
+
+Total Energy:                       -6.5542849020 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542849020 H         -178.3512 eV
+Total Mermin free energy:           -6.5542849020 H         -178.3512 eV
+Force related energy:               -6.5542849020 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 15
+
+
+Total Energy:                       -6.5542863257 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542863257 H         -178.3512 eV
+Total Mermin free energy:           -6.5542863257 H         -178.3512 eV
+Force related energy:               -6.5542863257 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 16
+
+
+Total Energy:                       -6.5542856089 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542856089 H         -178.3512 eV
+Total Mermin free energy:           -6.5542856089 H         -178.3512 eV
+Force related energy:               -6.5542856089 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 17
+
+
+Total Energy:                       -6.5542856215 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542856215 H         -178.3512 eV
+Total Mermin free energy:           -6.5542856215 H         -178.3512 eV
+Force related energy:               -6.5542856215 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 18
+
+
+Total Energy:                       -6.5542854851 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542854851 H         -178.3512 eV
+Total Mermin free energy:           -6.5542854851 H         -178.3512 eV
+Force related energy:               -6.5542854851 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 19
+
+
+Total Energy:                       -6.5542857447 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542857447 H         -178.3512 eV
+Total Mermin free energy:           -6.5542857447 H         -178.3512 eV
+Force related energy:               -6.5542857447 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 20
+
+
+Total Energy:                       -6.5542859084 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542859084 H         -178.3512 eV
+Total Mermin free energy:           -6.5542859084 H         -178.3512 eV
+Force related energy:               -6.5542859084 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 21
+
+
+Total Energy:                       -6.5542853213 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542853213 H         -178.3512 eV
+Total Mermin free energy:           -6.5542853213 H         -178.3512 eV
+Force related energy:               -6.5542853213 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 22
+
+
+Total Energy:                       -6.5542861227 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542861227 H         -178.3512 eV
+Total Mermin free energy:           -6.5542861227 H         -178.3512 eV
+Force related energy:               -6.5542861227 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 23
+
+
+Total Energy:                       -6.5542851057 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542851057 H         -178.3512 eV
+Total Mermin free energy:           -6.5542851057 H         -178.3512 eV
+Force related energy:               -6.5542851057 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 24
+
+
+Total Energy:                       -6.5542853076 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542853076 H         -178.3512 eV
+Total Mermin free energy:           -6.5542853076 H         -178.3512 eV
+Force related energy:               -6.5542853076 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 25
+
+
+Total Energy:                       -6.5542859223 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542859223 H         -178.3512 eV
+Total Mermin free energy:           -6.5542859223 H         -178.3512 eV
+Force related energy:               -6.5542859223 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 26
+
+
+Total Energy:                       -6.5542859650 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542859650 H         -178.3512 eV
+Total Mermin free energy:           -6.5542859650 H         -178.3512 eV
+Force related energy:               -6.5542859650 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 27
+
+
+Total Energy:                       -6.5542852647 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542852647 H         -178.3512 eV
+Total Mermin free energy:           -6.5542852647 H         -178.3512 eV
+Force related energy:               -6.5542852647 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 28
+
+
+Total Energy:                       -6.5542849950 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542849950 H         -178.3512 eV
+Total Mermin free energy:           -6.5542849950 H         -178.3512 eV
+Force related energy:               -6.5542849950 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 29
+
+
+Total Energy:                       -6.5542862334 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542862334 H         -178.3512 eV
+Total Mermin free energy:           -6.5542862334 H         -178.3512 eV
+Force related energy:               -6.5542862334 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 30
+
+
+Total Energy:                       -6.5542864393 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542864393 H         -178.3512 eV
+Total Mermin free energy:           -6.5542864393 H         -178.3512 eV
+Force related energy:               -6.5542864393 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 31
+
+
+Total Energy:                       -6.5542847906 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542847906 H         -178.3512 eV
+Total Mermin free energy:           -6.5542847906 H         -178.3512 eV
+Force related energy:               -6.5542847906 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 32
+
+
+Total Energy:                       -6.5542852066 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542852066 H         -178.3512 eV
+Total Mermin free energy:           -6.5542852066 H         -178.3512 eV
+Force related energy:               -6.5542852066 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 33
+
+
+Total Energy:                       -6.5542860230 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542860230 H         -178.3512 eV
+Total Mermin free energy:           -6.5542860230 H         -178.3512 eV
+Force related energy:               -6.5542860230 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 34
+
+
+Total Energy:                       -6.5542849067 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542849067 H         -178.3512 eV
+Total Mermin free energy:           -6.5542849067 H         -178.3512 eV
+Force related energy:               -6.5542849067 H         -178.3512 eV
+
+
+--------------------------------------------------------------------------------
+
+***  Geometry step: 35
+
+
+Total Energy:                       -6.5542863207 H         -178.3512 eV
+Extrapolated to 0K:                 -6.5542863207 H         -178.3512 eV
+Total Mermin free energy:           -6.5542863207 H         -178.3512 eV
+Force related energy:               -6.5542863207 H         -178.3512 eV
+
+
+Second derivatives completed
+Hessian matrix written to hessian.out
+
+--------------------------------------------------------------------------------
+DFTB+ running times                          cpu [s]             wall clock [s]
+--------------------------------------------------------------------------------
+SCC                                    +     0.25  ( 89.7%)      0.04  ( 83.7%)
+Post-SCC processing                    +     0.02  (  8.0%)      0.00  (  8.2%)
+--------------------------------------------------------------------------------
+Missing                                +     0.01  (  2.3%)      0.00  (  8.2%)
+Total                                  =     0.28  (100.0%)      0.05  (100.0%)
+--------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+Geometry = GenFormat { 
+    <<< "geo_end.gen" 
+} 
+ 
+Driver = {} 
+Hamiltonian = DFTB{ 
+   MaxAngularMomentum = { 
+      C = "p" 
+      H = "s" 
+      N = "p" 
+      O = "p" 
+   } 
+   SlaterKosterFiles = Type2FileNames{ 
+      Prefix = /home/klara/Programme/dftb/mio-1-1/ 
+      Separator = "-" 
+      Suffix = ".skf" 
+      } 
+   } 
+Options { 
+   WriteResultsTag = Yes 
+} 
+ParserOptions { 
+   IgnoreUnprocessedNodes = Yes  
+} 

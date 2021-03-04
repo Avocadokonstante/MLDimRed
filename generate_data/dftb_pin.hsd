@@ -1,0 +1,72 @@
+Geometry = GenFormat {
+6  C
+C    O    H
+1      1      1.487245000000000     -0.000061000000000      0.127168000000000
+2      2     -0.095041000000000      0.092883000000000      0.257301000000000
+3      3      1.810169000000000      0.976027000000000     -0.004490000000000
+4      3      1.746212000000000     -0.480043000000000     -0.896141000000000
+5      3      1.694680000000000     -0.431928000000000      0.788336000000000
+6      3     -0.199925000000000      0.305102000000000      0.527986000000000
+}
+Driver = {}
+Hamiltonian = DFTB {
+  MaxAngularMomentum = {
+    C = "p"
+    H = "s"
+    O = "p"
+  }
+  SlaterKosterFiles = Type2FileNames {
+    Prefix = /home/klara/Programme/dftb/mio-1-1/
+    Separator = "-"
+    Suffix = ".skf"
+    LowerCaseTypeName = No
+  }
+  PolynomialRepulsive = {}
+  SCC = No
+  OldSKInterpolation = No
+  RangeSeparated = None {}
+  SpinPolarisation = {}
+  ElectricField = {}
+  Solver = RelativelyRobust {}
+  Charge = 0.0000000000000000
+  OnSiteCorrection = {}
+  Dispersion = {}
+  Solvation = {}
+  Electrostatics = GammaFunctional {}
+  Differentiation = FiniteDiff {
+    Delta = 1.2207031250000000E-004
+  }
+  Filling = Fermi {
+    Temperature = 0.0000000000000000
+  }
+}
+Options = {
+  WriteResultsTag = Yes
+  WriteDetailedOut = Yes
+  WriteAutotestTag = No
+  WriteDetailedXML = No
+  RandomSeed = 0
+  WriteHS = No
+  WriteRealHS = No
+  MinimiseMemoryUsage = No
+  ShowFoldedCoords = No
+  TimingVerbosity = 1
+  WriteChargesAsText = No
+}
+ParserOptions = {
+  IgnoreUnprocessedNodes = Yes
+  ParserVersion = 9
+  WriteHSDInput = Yes
+  StopAfterParsing = No
+}
+Reks = None {}
+Analysis = {
+  ProjectStates = {}
+  WriteEigenvectors = No
+  WriteBandOut = Yes
+  MullikenAnalysis = Yes
+  WriteNetCharges = No
+  AtomResolvedEnergies = No
+  CalculateForces = No
+}
+ExcitedState = {}

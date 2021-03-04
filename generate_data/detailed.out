@@ -1,0 +1,71 @@
+ Fermi distribution function
+
+
+ Total charge:    -0.00000000
+
+ Atomic gross charges (e)
+ Atom           Charge
+    1       0.03551639
+    2      -0.70298831
+    3       0.09390815
+    4       0.06475496
+    5       0.13850073
+    6       0.37030806
+
+Nr. of electrons (up):     14.00000000
+Atom populations (up)
+ Atom       Population
+    1       3.96448361
+    2       6.70298831
+    3       0.90609185
+    4       0.93524504
+    5       0.86149927
+    6       0.62969194
+
+l-shell populations (up)
+ Atom Sh.   l       Population
+    1   1   0       1.23823572
+    1   2   1       2.72624788
+    2   1   0       1.58400135
+    2   2   1       5.11898696
+    3   1   0       0.90609185
+    4   1   0       0.93524504
+    5   1   0       0.86149927
+    6   1   0       0.62969194
+
+Orbital populations (up)
+ Atom Sh.   l   m       Population  Label
+    1   1   0   0       1.23823572  s
+    1   2   1  -1       1.03032531  p_y
+    1   2   1   0       1.02077356  p_z
+    1   2   1   1       0.67514901  p_x
+    2   1   0   0       1.58400135  s
+    2   2   1  -1       1.89630079  p_y
+    2   2   1   0       1.83148746  p_z
+    2   2   1   1       1.39119871  p_x
+    3   1   0   0       0.90609185  s
+    4   1   0   0       0.93524504  s
+    5   1   0   0       0.86149927  s
+    6   1   0   0       0.62969194  s
+
+Fermi level:                        -0.1130200036 H           -3.0754 eV
+Band energy:                        -6.8876303739 H         -187.4220 eV
+TS:                                  0.0000000000 H            0.0000 eV
+Band free energy (E-TS):            -6.8876303739 H         -187.4220 eV
+Extrapolated E(0K):                 -6.8876303739 H         -187.4220 eV
+Output electrons (q):     14.0000000000
+
+Energy H0:                          -6.8876303739 H         -187.4220 eV
+Total Electronic energy:            -6.8876303739 H         -187.4220 eV
+Repulsive energy:                    2.2923369524 H           62.3777 eV
+Total energy:                       -4.5952934215 H         -125.0443 eV
+Extrapolated to 0:                  -4.5952934215 H         -125.0443 eV
+Total Mermin free energy:           -4.5952934215 H         -125.0443 eV
+Force related energy:               -4.5952934215 H         -125.0443 eV
+
+Non-SCC calculation
+
+Dipole moment:    1.06463457    0.09152563    0.13206977 au
+Dipole moment:    2.70603138    0.23263498    0.33568789 Debye
+
+
