@@ -9,7 +9,7 @@ import utils as u
 import ml_utils as ml
 
 # read input
-infilename = "../input/methanole.xyz"
+infilename = "Input/methanole.xyz"
 coords, elements = dftbpl.readXYZ(infilename)
 print(coords)
 print(elements)
